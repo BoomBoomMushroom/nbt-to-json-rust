@@ -1,6 +1,6 @@
 # NBT to JSON (using Rust)
 
-This is my solution to slow nbt loading in Python. When I was working on my Minecraft World Wallpaper the NBT library I was using (NBTLib) was one of the biggest time users when building the mesh (basically the entire program!) So I built this tool in rust to turn nbt data into nice and pretty json!  
+This is my solution to slow nbt loading in Python. When I was working on my Minecraft World Wallpaper the NBT library I was using (NBTLib) was one of the biggest time users when building the mesh (basically the entire program!) So I built this tool in rust to turn nbt data into nice and pretty json! Also on a side note why tf was this thing so hard to make?!? The NBT was very confusing but I did it eventually.  
 
 Use:  
 
